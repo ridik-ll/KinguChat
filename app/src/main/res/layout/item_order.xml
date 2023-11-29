@@ -1,0 +1,49 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="#494D4E">
+
+    <TextView
+        android:id="@+id/dish_text_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="#FFFFFF" />
+
+    <TextView
+        android:id="@+id/quantity_text_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:textColor="#FFFFFF" />
+
+    <Button
+        android:id="@+id/mark_ready_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mark Ready"
+        android:visibility="gone"
+        android:textColor="#FFFFFF" />
+
+    <Button
+        android:id="@+id/delete_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Delete"
+        android:visibility="visible"
+        android:textColor="#FFFFFF" />
+
+    <TextView
+        android:id="@+id/ready_package_text_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ready"
+        android:visibility="gone"
+        android:textSize="20dp"
+        android:background="@android:color/holo_green_light"
+        android:textColor="#FFFFFF" />
+
+</LinearLayout>

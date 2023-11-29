@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "911850015506",
+    "firebase_url": "https://kinguchat-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "kinguchat",
+    "storage_bucket": "kinguchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911850015506:android:8d2f3bb7e67c37d6ba41cb",
+        "android_client_info": {
+          "package_name": "lv.rtu.dip701.kinguchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911850015506-cvu2og9s78sk1jnon7623ccnr77i3hgh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwOlSmOVqXmAS38s3TbWId-oW0kyI2DaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911850015506-cvu2og9s78sk1jnon7623ccnr77i3hgh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
